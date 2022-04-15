@@ -14,13 +14,7 @@ import javax.mail.internet.MimeMessage;
 @Service
 public class MailService {
 
-	static final String FROM="bankingparkar@gmail.com";
-	static final String FROMNAME="Parkar Bank";
-	static final String SMTP_USERNAME="bankingparkar@gmail.com";
-	static final String SMTP_PASSWORD="Qwerty@1234";
-	static final String HOST ="smtp.gmail.com";
-	static final String PORT ="587";
-	static final String SUBJECT="Banking OTP";
+
 
 
 	public boolean sendMail(String email, String oneTimePassword) {
