@@ -8,5 +8,5 @@ Develop a banking application with functionality like
 * Sending OTP before a transaction
 * Adding money to account
 * Transfer money to another user
-* View user passbook with validations
+* View user passbook with validations <br />
 With extra security
