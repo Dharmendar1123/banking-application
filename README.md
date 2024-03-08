@@ -1,6 +1,6 @@
 # Banking Application
 Develop a banking application with functionality like 
-** Login
+* Login
 ** Register
 ** Fetching user details
 ** Update user details
