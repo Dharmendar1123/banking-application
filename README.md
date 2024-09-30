@@ -10,3 +10,12 @@ Develop a banking application with functionality like
 * Transfer money to another user
 * View user passbook with validations <br />
 With extra security
+
+Technology used
+* Java
+* Spring Boot
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* MySQL
